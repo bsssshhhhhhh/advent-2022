@@ -3,6 +3,7 @@
     "typescript": "^4.9.3"
   },
   "dependencies": {
-    "ts-arithmetic": "^0.1.1"
+    "ts-arithmetic": "^0.1.1",
+    "ts-toolbelt": "^9.6.0"
   }
 }
